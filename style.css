@@ -60,3 +60,13 @@ h1.temp {
     margin: 0;
     margin-bottom: 0.4em;
 }
+
+.description {
+    text-transform: capitalize;
+    margin-left: 8px;
+}
+
+.flex {
+    display:flex;
+    align-items: center;
+}
